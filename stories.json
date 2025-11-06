@@ -1,23 +1,40 @@
 {
-  "recommended": {
-    "id": "tortoise-hare",
-    "title": "The Tortoise and the Hare",
-    "subtitle": "Slow and steady wins the race",
-    "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
-    "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
-  },
-  "new": [
+  "updated_at": "2025-11-06",
+  "new_stories": [
     {
-      "id": "lion-mouse",
-      "title": "The Lion and the Mouse",
-      "subtitle": "Even the smallest friend can help",
+      "id": "rabbit-and-turtle",
+      "title": "กระต่ายกับเต่า",
+      "subtitle": "อย่าประมาทผู้อื่น",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
     },
     {
-      "id": "red-hen",
-      "title": "The Little Red Hen",
-      "subtitle": "Work together for success",
+      "id": "fox-and-grapes",
+      "title": "สุนัขจิ้งจอกกับพวงองุ่น",
+      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
+      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
+      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
+    }
+  ],
+  "all_stories": [
+    {
+      "id": "lion-and-mouse",
+      "title": "สิงโตกับหนู",
+      "subtitle": "เล็กน้อยก็ช่วยใหญ่ได้",
+      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
+      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
+    },
+    {
+      "id": "rabbit-and-turtle",
+      "title": "กระต่ายกับเต่า",
+      "subtitle": "อย่าประมาทผู้อื่น",
+      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
+      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
+    },
+    {
+      "id": "fox-and-grapes",
+      "title": "สุนัขจิ้งจอกกับพวงองุ่น",
+      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
     }
