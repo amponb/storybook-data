@@ -1,0 +1,19 @@
+{
+  "recommended": {
+    "id": "tortoise-hare",
+    "title": "The Tortoise and the Hare",
+    "subtitle": "Slow and steady wins the race"
+  },
+  "new": [
+    {
+      "id": "lion-mouse",
+      "title": "The Lion and the Mouse",
+      "subtitle": "Even the smallest friend can help"
+    },
+    {
+      "id": "red-hen",
+      "title": "The Little Red Hen",
+      "subtitle": "Work together for success"
+    }
+  ]
+}
