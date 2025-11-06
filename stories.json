@@ -16,29 +16,8 @@
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
     },
     {
-      "id": "rabbit-and-turtle-q",
-      "title": "กระต่ายกับเต่า",
-      "subtitle": "อย่าประมาทผู้อื่น",
-      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
-      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
-    },
-    {
-      "id": "fox-and-grapes-q",
-      "title": "สุนัขจิ้งจอกกับพวงองุ่น",
-      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
-      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
-      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
-    },
-    {
-      "id": "rabbit-and-turtle-w",
-      "title": "กระต่ายกับเต่า",
-      "subtitle": "อย่าประมาทผู้อื่น",
-      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
-      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
-    },
-    {
-      "id": "fox-and-grapes-w",
-      "title": "สุนัขจิ้งจอกกับพวงองุ่น",
+      "id": "story-01",
+      "title": "story-01",
       "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
@@ -68,5 +47,6 @@
     }
   ]
 }
+
 
 
