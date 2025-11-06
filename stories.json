@@ -21,6 +21,13 @@
       "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
+    },
+    {
+      "id": "story-02",
+      "title": "story-02",
+      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
+      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
+      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81"
     }
   ],
   "all_stories": [
@@ -47,6 +54,7 @@
     }
   ]
 }
+
 
 
 
