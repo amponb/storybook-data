@@ -7,8 +7,8 @@
       "subtitle": "เล็กน้อยก็ช่วยใหญ่ได้",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
-      "category": "ผจญภัย"
-      "status": "new"
+      "category": "ผจญภัย",
+      "status": "normal"
     },
     {
       "id": "rabbit-and-turtle",
@@ -25,26 +25,26 @@
       "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
-      "category": "ผจญภัย",
+      "category": "ก่อนนอน",
       "status": "new"
     },
     {
       "id": "story-01",
       "title": "story-01",
-      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
+      "subtitle": "นิทานสั้นสุดหรรษา",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
       "category": "ผจญภัย",
-      "status": "regular"
+      "status": "new"
     },
     {
       "id": "story-02",
       "title": "story-02",
-      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
+      "subtitle": "อีกหนึ่งนิทานสนุก ๆ",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
       "category": "ผจญภัย",
-      "status": "regular"
+      "status": "normal"
     }
   ]
 }
