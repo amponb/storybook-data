@@ -1,39 +1,5 @@
 {
   "updated_at": "2025-11-06",
-  "new_stories": [
-    {
-      "id": "rabbit-and-turtle",
-      "title": "กระต่ายกับเต่า",
-      "subtitle": "อย่าประมาทผู้อื่น",
-      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
-      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
-      "category": "ก่อนนอน"
-    },
-    {
-      "id": "fox-and-grapes",
-      "title": "สุนัขจิ้งจอกกับพวงองุ่น",
-      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
-      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
-      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
-      "category": "ผจญภัย"
-    },
-    {
-      "id": "story-01",
-      "title": "story-01",
-      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
-      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
-      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
-      "category": "ผจญภัย"
-    },
-    {
-      "id": "story-02",
-      "title": "story-02",
-      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
-      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
-      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
-      "category": "ผจญภัย"
-    }
-  ],
   "all_stories": [
     {
       "id": "lion-and-mouse",
@@ -42,6 +8,7 @@
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
       "category": "ผจญภัย"
+      "status": "new"
     },
     {
       "id": "rabbit-and-turtle",
@@ -49,7 +16,8 @@
       "subtitle": "อย่าประมาทผู้อื่น",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
-      "category": "ก่อนนอน"
+      "category": "ก่อนนอน",
+      "status": "new"
     },
     {
       "id": "fox-and-grapes",
@@ -57,12 +25,26 @@
       "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
-      "category": "ก่อนนอน"
+      "category": "ผจญภัย",
+      "status": "new"
+    },
+    {
+      "id": "story-01",
+      "title": "story-01",
+      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
+      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
+      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
+      "category": "ผจญภัย",
+      "status": "regular"
+    },
+    {
+      "id": "story-02",
+      "title": "story-02",
+      "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
+      "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
+      "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
+      "category": "ผจญภัย",
+      "status": "regular"
     }
   ]
 }
-
-
-
-
-
