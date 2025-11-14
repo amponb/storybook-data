@@ -2,7 +2,7 @@
   "updated_at": "2025-11-06",
   "all_stories": [
     {
-      "id": "lion-and-mouse",
+      "id": "1",
       "title": "สิงโตกับหนู",
       "subtitle": "เล็กน้อยก็ช่วยใหญ่ได้",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
@@ -11,25 +11,25 @@
       "status": "normal"
     },
     {
-      "id": "rabbit-and-turtle",
+      "id": "2",
       "title": "กระต่ายกับเต่า",
       "subtitle": "อย่าประมาทผู้อื่น",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
       "category": "ก่อนนอน",
-      "status": "new"
+      "status": "normal"
     },
     {
-      "id": "fox-and-grapes",
+      "id": "3",
       "title": "สุนัขจิ้งจอกกับพวงองุ่น",
       "subtitle": "สิ่งที่เอื้อมไม่ถึง บางครั้งเราก็พาลดูถูกมัน",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
       "category": "ก่อนนอน",
-      "status": "new"
+      "status": "normal"
     },
     {
-      "id": "story-01",
+      "id": "4",
       "title": "story-01",
       "subtitle": "นิทานสั้นสุดหรรษา",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
@@ -38,13 +38,14 @@
       "status": "new"
     },
     {
-      "id": "story-02",
+      "id": "5",
       "title": "story-02",
       "subtitle": "อีกหนึ่งนิทานสนุก ๆ",
       "image": "https://drive.google.com/uc?export=download&id=1Iqx8FCGRjIoEhtfi3gveE2jl6fvE1prS",
       "audio": "https://drive.google.com/uc?export=download&id=1hUeWPBvf33ce_PZkm2iYOFEyLu6g7g81",
       "category": "ผจญภัย",
-      "status": "normal"
+      "status": "new"
     }
   ]
 }
+
